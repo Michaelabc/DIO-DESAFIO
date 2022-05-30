@@ -15,3 +15,5 @@ git status: Para saber se o programa se encontra OK!
 git clone: para clonar o repositorio
 
 git push: para fazer o upload do repositorio
+
+git config --list> para saber suas configurações
